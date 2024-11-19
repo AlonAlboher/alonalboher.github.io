@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Alon Alboher # your name (or website title) here
+logo: "https://media.licdn.com/dms/image/v2/D4D03AQFdIY_VXE4kxQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725877493082?e=1737590400&v=beta&t=ozEZZpU8LeH_jpRy6_y-zK1HkpOV-MCTaGgypHUZ-h4" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data analyst, Business analyst, BI developer, Project manager, Operations manager
   <br><br>
-  Second description 
+  alonalboher@gmail.com , +972-52-8433813
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/alonalboher/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
