@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/Marvel analytics - Int college DA class of 2024 final project)
-<img src="https://drive.google.com/file/d/1MDSof7XLaQeDKBG8LmoVL31u5U-7czmW/view?usp=sharing"/>
+<img src="https://drive.google.com/file/d/1MDSof7XLaQeDKBG8LmoVL31u5U-7czmW/preview"/>
 
 ---
 [Project 2 Title](/Cibus Dashboard - Int college DA class of 2024)
