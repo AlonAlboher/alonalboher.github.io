@@ -4,28 +4,16 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](./Marvel analytics - Int college DA class of 2024 final project)
+<img src="[images/dummy_thumbnail.jpg?raw=true](https://drive.google.com/file/d/1MDSof7XLaQeDKBG8LmoVL31u5U-7czmW/view?usp=drive_link)"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Title](./Cibus Dashboard - Int college DA class of 2024)
+<img src="[images/dummy_thumbnail.jpg?raw=true](https://drive.google.com/file/d/1B7irGy0TsO3WqMh7dUhuW4cegujV4xZn/view?usp=drive_link)"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+[Project 3 Title](./SQL Database design - Int college DA class of 2024)
+<img src="[images/dummy_thumbnail.jpg?raw=true](https://drive.google.com/file/d/1cWKCkicJUmjOkQ1eehW4OrTP52eohDVk/view?usp=drive_link)"/>
 
 
 
