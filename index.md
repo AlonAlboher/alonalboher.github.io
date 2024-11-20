@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### College projects:
 
 [Marvel analytics - Int college DA class of 2024 final project](/marvelAnalytics)
 <img src="https://drive.google.com/file/d/1MDSof7XLaQeDKBG8LmoVL31u5U-7czmW/preview"/>
